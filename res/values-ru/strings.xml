@@ -2531,7 +2531,7 @@
     <string name="pref_statusbar_sixbar_signal_title">Шестиполосные иконки уровня сигнала</string>
     <string name="pref_statusbar_sixbar_signal_summary">Показывать 6 полосок уровня сигнала WiFi/моб. сети вместо стандартных 4.</string>
     <!-- Custom Boot Animation -->
-    <string name="custom_bootanimation_title">Своя анимация загрузки</string>
+    <string name="custom_bootanimation_title">Своя boot анимация</string>
     <string name="custom_bootanimation_summary">Выбрать ZIP архив с анимацией загрузки с карты памяти, при этом будет сделана резервная копия текущей анимации загрузки. (Чекбокс "Отключить анимацию загрузки" должен быть снят).</string>
     <string name="install_file_manager_error">Не найдено приложений для выбора ZIP файла. Пожалуйста, установите диспетчер файлов.</string>
     <!-- ScreenShot Scaling -->
@@ -2547,15 +2547,15 @@
     <string name="pref_trackball_unlock_toggle_title">Разблокировка трекболом</string>
     <string name="pref_trackball_unlock_toggle_summary">При нажатии на трекбол устройство будет разблокировываться</string>
     <!-- Recent Apps Kill All Button -->
-    <string name="interface_recents">Экран послених запущенных приложений</string>
-    <string name="recent_kill_all">Показ кнопки "Убить все"</string>
+    <string name="interface_recents">Экран последних запущенных приложений</string>
+    <string name="recent_kill_all">Показ кнопки "Kill all"</string>
     <string name="recent_kill_all_summary">Показывает кнопку для закрытия всех последних запущенных приложений.</string>    
     <!-- Recent Apps Memory Display -->
-    <string name="interface_recents_mem_display_title">Показ памяти</string>
-    <string name="interface_recents_mem_display_description">Включает показ доступной памяти.</string>
+    <string name="interface_recents_mem_display_title">Показать свободную память</string>
+    <string name="interface_recents_mem_display_description">Показывает свободную память на экране последних запущенных приложений.</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Выбор цвета</string>
-    <string name="press_color_to_apply">Чтобы принять, нажмите на цвет.</string>
+    <string name="press_color_to_apply">Чтобы установить цвет, нажмите на него.</string>
     <string name="arrow_right">.</string>
     <string name="arrow_down">.</string>
     <string name="hex">HEX:</string>
@@ -2575,12 +2575,12 @@
     <string name="stock_density_summary">Планшеты и старые телефоны используют 160. Большинство телефонов - 240. Galaxy Nexus использует по-умолчанию 320.</string>
     <string name="reboot_title">2. Перезагрузите устройство!</string>
     <string name="reboot_summary">Вернитесь сюда после перезагрузки и завершите оставшиеся шаги!</string>
-    <string name="clear_market_data_title">3. Очистить данные Play Store</string>
-    <string name="clear_market_data_cleared">Данные Play Store удалены.</string>
-    <string name="open_market_title">4. Откройте Play Store и примите соглашение</string>
+    <string name="clear_market_data_title">3. Очистить данные Google Play (маркета)</string>
+    <string name="clear_market_data_cleared">Данные Google Play (маркета) удалены.</string>
+    <string name="open_market_title">4. Откройте Google Play (маркета) и примите соглашение</string>
     <string name="open_market_summary">Как будет готово, нажмите кнопку "Назад", чтобы вернуться сюда</string>
     <string name="custom_density_title">5. Установите желаемую плотность!</string>
-    <string name="custom_density_summary">Если проблемы с Play Store не прекратились, обязательно вернитесь сюда и выполните все шаги заново.</string>
+    <string name="custom_density_summary">Если проблемы с Google Play (маркета) не прекратились, обязательно вернитесь сюда и выполните все шаги заново.</string>
     <!-- Network Label -->
     <string name="custom_carrier_label_title">Своя метка оператора</string>
     <string name="custom_carrier_label_explain">Введите новую метку оператора. Чтобы вернуть значение по-умолчанию, оставьте начение пустым.</string>

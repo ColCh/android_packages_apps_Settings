@@ -145,9 +145,9 @@
     <item msgid="5702329417707689835">"Отличный"</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries">
-    <item msgid="3269131034472904310">"Всегда"</item>
+    <item msgid="3269131034472904310">"Всегда (увеличивает расход трафика)"</item>
     <item msgid="844721238536786870">"Только при питании от сети"</item>
-    <item msgid="2990218920631468642">"Никогда (увеличивает расход трафика)"</item>
+    <item msgid="2990218920631468642">"Никогда"</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries_wifi_only">
     <item msgid="2124319326282651391">"Всегда"</item>
