@@ -2497,16 +2497,16 @@
     <string name="codefire_general">Общие</string>
     <string name="codefire_general_summary">Показ кнопки "Kill all", отключение анимации загрузки, и прочее</string>
     <string name="codefire_theme">Настройки темы</string>
-    <string name="codefire_theme_summary">Своя метка оператора, настройка плотности экрана, две панели просмотра, панель навигации, и прочее</string>
+    <string name="codefire_theme_summary">Своя метка оператора, настройка DPI, планшетный интерфейс, и прочее</string>
     <string name="codefire_lockscreen">Экран блокировки</string>
     <string name="codefire_notification">Область уведомлений</string>
     <string name="codefire_misc">Разное</string>
     <string name="codefire_propmodder">PropModder</string>
-    <string name="codefire_propmodder_summary">Тонкая настройка системы. Интервал сканирования WiFi, режим hsupa, и прочее</string>
+    <string name="codefire_propmodder_summary">Тонкая настройка системы. Интервал сканирования Wi-Fi, режим HSUPA, и прочее</string>
     <string name="codefire_statusbar">Строка состояния</string>
-    <string name="codefire_statusbar_summary">Индикатор заряда, настройка отображения часов, стиль иконки сигнала, и прочее</string>
+    <string name="codefire_statusbar_summary">Индикатор заряда, позиция часов, стиль иконки сигнала, и прочее</string>
     <string name="codefire_signal">Стиль сигнала</string>
-    <string name="codefire_signal_summary">Настройка отображения уровня сигнала WiFi/моб. сети</string>
+    <string name="codefire_signal_summary">Настройка отображения уровня сигнала Wi-Fi/моб. сети</string>
     <!-- Battery Bar -->
     <string name="battery_bar">Местоположение панели</string>
     <string name="battery_bar_color">Цвет панели</string>
@@ -2514,7 +2514,7 @@
     <string name="battery_bar_style_title">Вид отображения</string>
     <string name="battery_bar_thickness_title">Толщина панели</string>
     <string name="battery_bar_animate_title">Анимация зарядки</string>
-    <string name="battery_bar_animate_summary">Может стать результатом плохого опыта взаимодействия. Включайте на своё усмотрение.</string>
+    <string name="battery_bar_animate_summary">Может испортить ощущения от прошивки. Включайте на своё усмотрение.</string>
     <!-- Dual Pane -->
     <string name="dual_pane_title">Двойная панель просмотра</string>
     <string name="dual_pane_summary">Приложения, поддерживающие этот параметр, будут показаны в две панели.</string>
@@ -2522,7 +2522,7 @@
     <string name="enable_fast_torch_summary">Когда экран выключен, нажмите и удерживайте кнопку питания для включения\выключения светодиода(-ов). Чтобы выключить фонарик, разблокируйте или выключите дисплей.</string>
     <string name="enable_fast_torch_title">Включить быстрый фонарик</string>
     <!-- App Kill Timeout -->
-    <string name="pref_kill_app_longpress_back_timeout_title">Таймаут закрытия приложения через кнопку "Назад"</string>
+    <string name="pref_kill_app_longpress_back_timeout_title">Таймаут закрытия через кнопку "Назад"</string>
     <string name="pref_kill_app_longpress_back_timeout_dialogtitle">Длительность в миллисекундах (500-2000)</string>
     <string name="pref_kill_app_longpress_back_timeout_summary">Установить свою длительность нажатия на кнопку "Назад". (ПЕРЕД ЭТИМ НУЖНО ВКЛЮЧИТЬ ЗАКРЫТИЕ ПРИЛОЖЕНИЙ С ПОМОЩЬЮ КНОПКИ НАЗАД В НАСТРОЙКАХ ДЛЯ РАЗРАБОТЧИКОВ)</string>   
     <!-- Brightness Toggle slider -->
@@ -2532,27 +2532,27 @@
     <string name="pref_statusbar_sixbar_signal_summary">Показывать 6 полосок уровня сигнала WiFi/моб. сети вместо стандартных 4.</string>
     <!-- Custom Boot Animation -->
     <string name="custom_bootanimation_title">Своя boot анимация</string>
-    <string name="custom_bootanimation_summary">Выбрать ZIP архив с анимацией загрузки с карты памяти, при этом будет сделана резервная копия текущей анимации загрузки. (Чекбокс "Отключить анимацию загрузки" должен быть снят).</string>
-    <string name="install_file_manager_error">Не найдено приложений для выбора ZIP файла. Пожалуйста, установите диспетчер файлов.</string>
+    <string name="custom_bootanimation_summary">Выбрать ZIP архив с анимацией загрузки с карты памяти, при этом будет сделана резервная копия текущей . (Чекбокс "Отключить анимацию загрузки" должен быть снят).</string>
+    <string name="install_file_manager_error">Не найдено приложений для выбора файла. Пожалуйста, установите диспетчер файлов.</string>
     <!-- ScreenShot Scaling -->
     <string name="screenshot_scaling_title">Коэффициент масштабирования снимка экрана</string>
     <string name="screenshot_scaling_summary">Текущий :\u0020</string>
     <string name="screenshot_scaling_dialog_title">Выберите значение</string>
     <!-- WiFi SSID in Notification -->
-    <string name="notification_show_wifi_ssid_title">Показывать имя (ssid) WiFi сети</string>
+    <string name="notification_show_wifi_ssid_title">Показывать имя (SSID) Wi-Fi сети</string>
     <string name="notification_show_wifi_ssid_summary">Будет показана в области уведомлений</string>
     <!-- TrackBall Settings -->
     <string name="pref_trackball_wake_toggle_title">Пробуждение трекболом</string>
     <string name="pref_trackball_wake_toggle_summary">При нажатии на трекбол устройство будет пробуждаться</string>
     <string name="pref_trackball_unlock_toggle_title">Разблокировка трекболом</string>
-    <string name="pref_trackball_unlock_toggle_summary">При нажатии на трекбол устройство будет разблокировано</string>
+    <string name="pref_trackball_unlock_toggle_summary">После нажатия на трекбол устройство будет разблокировано</string>
     <!-- Recent Apps Kill All Button -->
     <string name="interface_recents">Экран последних запущенных приложений</string>
-    <string name="recent_kill_all">Показ кнопки "Kill all"</string>
+    <string name="recent_kill_all">Включить "Kill all"</string>
     <string name="recent_kill_all_summary">Показывает кнопку для закрытия всех последних запущенных приложений.</string>    
     <!-- Recent Apps Memory Display -->
     <string name="interface_recents_mem_display_title">Показать свободную память</string>
-    <string name="interface_recents_mem_display_description">Показывает свободную память на экране последних запущенных приложений.</string>
+    <string name="interface_recents_mem_display_description">На экране последних запущенных приложений.</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Выбор цвета</string>
     <string name="press_color_to_apply">Чтобы установить цвет, нажмите на него.</string>
@@ -2563,7 +2563,7 @@
     <string name="set">Уст.</string>
     <string name="ics_color">Холо</string>
     <!-- Larger Clear-All Button (TabletUI) -->
-    <string name="interface_systembar_fat_fingers_title">Большая кнопка "Очистить все"</string>
+    <string name="interface_systembar_fat_fingers_title">Увеличить размер "Очистить все"</string>
     <string name="interface_systembar_fat_fingers_summary">Помогает с очисткой уведомлений при использовании планшетного интерфейса (необходима перезагрузка)</string>
     <!-- LCD Density -->
     <string name="dpi">DPI</string>
@@ -2576,38 +2576,38 @@
     <string name="reboot_title">2. Перезагрузите устройство!</string>
     <string name="reboot_summary">Вернитесь сюда после перезагрузки и завершите оставшиеся шаги!</string>
     <string name="clear_market_data_title">3. Очистить данные Google Play (маркета)</string>
-    <string name="clear_market_data_cleared">Данные Google Play (маркета) удалены.</string>
-    <string name="open_market_title">4. Откройте Google Play (маркета) и примите соглашение</string>
-    <string name="open_market_summary">Как будет готово, нажмите кнопку "Назад", чтобы вернуться сюда</string>
+    <string name="clear_market_data_cleared">Данные Google Play удалены.</string>
+    <string name="open_market_title">4. Запустите Google Play (маркет) и примите соглашение</string>
+    <string name="open_market_summary">После этого нажмите кнопку "Назад", чтобы вернуться сюда</string>
     <string name="custom_density_title">5. Установите желаемую плотность!</string>
-    <string name="custom_density_summary">Если проблемы с Google Play (маркета) не прекратились, обязательно вернитесь сюда и выполните все шаги заново.</string>
+    <string name="custom_density_summary">Если есть проблемы совместимости Google Play, обязательно вернитесь сюда и выполните все шаги заново.</string>
     <!-- Network Label -->
-    <string name="custom_carrier_label_title">Своя метка оператора</string>
-    <string name="custom_carrier_label_explain">Введите новую метку оператора. Чтобы вернуть значение по-умолчанию, оставьте начение пустым.</string>
-    <string name="custom_carrier_label_notset">В настоящее время не установлена.</string>
+    <string name="custom_carrier_label_title">Название оператора</string>
+    <string name="custom_carrier_label_explain">Изменение отображения названия оператора. Чтобы вернуть значение по-умолчанию, оставьте начение пустым.</string>
+    <string name="custom_carrier_label_notset">В настоящее время не установлено.</string>
     <!-- PropModder -->
     <string name="buildprop_title">Настройки build.prop</string>
     <string name="nonprop_cat_title">Настройки init.d</string>
     <string name="main_warning_title">ВАС ПРЕДУПРЕДИЛИ</string>
-    <string name="main_warning_summary">Это приложение писалось во время просмотра обезьян, жонглирующих ножами!  Оно взламывает ваш /system/build.prop МЫ НЕ НЕСЁМ ОТВЕТСТВЕННОСТИ НИ ЗА КАКИЕ НОЖЕВЫЕ РАНЕНИЯ! Ваше устройство - ваша ответственность!</string>
-    <string name="pref_wifi_scan_interval_title">Интервал сканирования WiFi</string>
-    <string name="pref_wifi_scan_interval_summary">Интервал сканирования WiFi сетей при недоступности сохранённых точек доступа (необходима перезагрузка).</string>
+    <string name="main_warning_summary">Это приложение писалось во время просмотра обезьян, жонглирующих ножами! Оно взламывает ваш /system/build.prop МЫ НЕ НЕСЁМ ОТВЕТСТВЕННОСТИ НИ ЗА КАКИЕ НОЖЕВЫЕ РАНЕНИЯ! Ваше устройство - ваша ответственность!</string>
+    <string name="pref_wifi_scan_interval_title">Интервал сканирования Wi-Fi</string>
+    <string name="pref_wifi_scan_interval_summary">Интервал сканирования Wi-Fi сетей, если сохранённые точки доступа недоступны (необходима перезагрузка).</string>
     <string name="pref_wifi_scan_alt_summary">Время между сканированием: %s</string>
     <string name="pref_max_events_title">Максимальное количество событий менеджера окон</string>
     <string name="pref_max_events_summary">Ограничит максимальным значением количество событий менеджера окон за одну секунду. (необходима перезагрузка)</string>
     <string name="pref_max_events_alt_summary">Максимальное количество системных событий: %s</string>
     <string name="pref_ring_delay_title">Задержка входящего звонка</string>
-    <string name="pref_ring_delay_summary">Время, которое проходит между тем, как система регистрирует входящий звонок, и как начинается звонок. (необходима перезагрузка)</string>
+    <string name="pref_ring_delay_summary">Время, которое проходит между тем, как система регистрирует входящий звонок, и как начинает играть рингтон. (необходима перезагрузка)</string>
     <string name="pref_ring_delay_alt_summary">Задержка: %s</string>
-    <string name="pref_vm_heapsize_title">Память под кеш в.м. Дальвика</string>
+    <string name="pref_vm_heapsize_title">Память под кеш Dalvik V.M.</string>
     <string name="pref_vm_heapsize_summary">Устанавливает размер кеша, к котому имеет доступ вирутальная машина Дальвика (необходима перегагрузка)</string>
     <string name="pref_vm_heapsize_alt_summary">Размер кеша Dalvik VM: %s</string>
     <string name="propmodder_warning_title">НЕОБХОДИМЫ ПРАВА СУПЕРПОЛЬЗОВАТЕЛЯ</string>
-    <string name="propmodder_warning">Это приложение изменяет настройки системы в /system/build.prop НЕ ИСПОЛЬЗУЙТЕ, ЕСЛИ НЕ ЗНАЕТЕ, ДЛЯ ЧЕГО ЭТО НУЖНО. Мы (n00bware, создатели PropModder) мы не несём ответственности за время жизни вашего устройства. Вы предупреждены!</string>
+    <string name="propmodder_warning">Это приложение изменяет /system/build.prop НЕ ИСПОЛЬЗУЙТЕ, ЕСЛИ НЕ ЗНАЕТЕ, ДЛЯ ЧЕГО ЭТО НУЖНО. Мы (n00bware, создатели PropModder) мы не несём ответственности за время жизни вашего устройства. Вы предупреждены!</string>
     <string name="showbuild_title">Знаете ли вы о содержимом вашего build.prop?</string>
-    <string name="showbuild_dialog">Это ваш /system/build.prop</string>
+    <string name="showbuild_dialog">Это ваш build.prop</string>
     <string name="showbuild_loading">Загрузка build.prop\u2026</string>
-    <string name="showbuild_error">Ошибка загрузки g build.prop\u2026</string>
+    <string name="showbuild_error">Ошибка загрузки build.prop\u2026</string>
     <string name="showbuild_unknown">Неизвестно</string>
     <string name="showbuild_version">Версия</string>
     <string name="showbuild_label">Мы должны глядеть в оба; знания - это полдела</string>
@@ -2615,7 +2615,7 @@
     <string name="pref_fast_up_summary">*ВНИМАНИЕ* Если вы измените это значение, то в ваш build.prop добавятся необходимые значения, если они ещё не там. (необходима перезагрузка)</string>
     <string name="pref_fast_up_alt_summary">Активный: %s</string>
     <string name="pref_prox_delay_title">Задержка датчика приближения</string>
-    <string name="pref_prox_delay_summary">Значение контролирует время, которое экран будет выключенным, когда во время разговора вы отдалили телефон от уха. (необходима перезагрузка)</string>
+    <string name="pref_prox_delay_summary">Значение контролирует время, которое экран останется выключенным, если во время разговора вы отдалили телефон от лица. (необходима перезагрузка)</string>
     <string name="pref_prox_delay_alt_summary">Текущее значение: %s</string>
     <string name="pref_logcat_title">Отключить логирование</string>
     <string name="pref_logcat_summary">Отключение ведения записей в журнал (лог) - может увеличить производительность, но делает отладку невыносимо трудной.</string>
@@ -2626,14 +2626,14 @@
     <string name="pref_sleep_title">Режимы сна</string>
     <string name="pref_sleep_summary">Изменить политику сна устройства</string>
     <string name="pref_sleep_alt_summary">Текущее значение: %s</string>
-    <string name="pref_tcp_stack_title">Оптимизация стека TCP</string>
+    <string name="pref_tcp_stack_title">Оптимизация TCP</string>
     <string name="pref_tcp_stack_summary">Изменит размер буфера для лучшей производительности</string>
     <string name="pref_check_in_title">Службы регистрации</string>
-    <string name="pref_check_in_summary">Остановить отправку данных об использования системы Google и HTC</string>
-    <string name="pref_sdcard_buffer_title">Увеличение скорости карты памяти</string>
+    <string name="pref_check_in_summary">Остановит отправку данных об использовании системы Google и HTC</string>
+    <string name="pref_sdcard_buffer_title">Ускорение карты памяти</string>
     <string name="pref_sdcard_buffer_summary">Изменит размер буфера карты памяти для лучшей производительности.</string>
     <string name="pref_g_speed_title">Увеличение скорости 3G</string>
-    <string name="pref_g_speed_summary">Снять шляпу с 3G!</string>
+    <string name="pref_g_speed_summary">Снять планку со скорости 3G!</string>
     <!-- Scroller options -->
     <string name="scroller_options">Настройка прокрутки</string>
     <string name="scroll">Прокрутка</string>
@@ -2647,8 +2647,8 @@
     <string name="signal_color_title">Цвет индикатора сигнала моб. сети</string>
     <string name="hide_signal_title">Скрыть полоски индикаторов сигнала</string>
     <string name="hide_signal_summary">Кратковременное отображение индикаторов, при изменении уровня сигнала</string>
-    <string name="wifi_signal_style">Способ отображения уровня WiFi сигнала</string>
-    <string name="wifi_signal_color_title">Цвет индикатора сигнала WiFi</string>
+    <string name="wifi_signal_style">Способ отображения уровня Wi-Fi сигнала</string>
+    <string name="wifi_signal_color_title">Цвет индикатора сигнала Wi-Fi</string>
     <!-- Status Bar, SysBar, and NavBar Transparency -->
     <string name="transparency_header">Прозрачность</string>
     <string name="status_bar_transparency_title">Панель уведомлений</string>
