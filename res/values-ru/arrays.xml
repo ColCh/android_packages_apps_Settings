@@ -394,4 +394,80 @@
   </string-array>
 
   <!-- **** CYANOGENMOD EDITS END **** -->
+  
+
+  <!-- PropModder from Liquid -->
+    <string-array name="entries_fast_up_explain">
+        <item>По-умолчанию</item>
+        <item>Выключить HSUPA (с ограничением)</item>
+        <item>Включить HSUPA</item>
+        <item>Включить HSUPA (без ограничения)</item>
+    </string-array>
+
+    <string-array name="entries_prox_delay_explain">
+        <item>По-умолчанию</item>
+        <item>0</item>
+        <item>50</item>
+        <item>75</item>
+        <item>125</item>
+        <item>150</item>
+        <item>175</item>
+        <item>200</item>
+        <item>225</item>
+        <item>250</item>
+        <item>275</item>
+        <item>300</item>
+        <item>325</item>
+        <item>350</item>
+        <item>375</item>
+        <item>400</item>
+        <item>425</item>
+        <item>450</item>
+        <item>475</item>
+        <item>500</item>
+    </string-array>
+
+    <string-array name="entries_logcat_explain">
+        <item>Убрать навсегда</item>
+        <item>Выключить до перезагрузки</item>
+        <item>Включить</item>
+    </string-array>
+
+    <string-array name="entries_logcat">
+        <item>disable</item>
+        <item>rm_log</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="entries_sleep_explain">
+        <item>По-умолчанию</item>
+        <item>0 Приостановка питания ARM11</item>
+        <item>1 Полное отключение ARM11 (лучшее)</item>
+        <item>2 Программный сон</item>
+        <item>3 Понижения хараеткристик</item>
+        <item>4 Ждать прерывания</item>
+    </string-array>
+
+    <string-array name="entries_sdcard_buffer_explain">
+        <item>По-умолчанию</item>
+        <item>128 kb</item>
+        <item>1024 kb</item>
+        <item>2048 kb (Лучшее)</item>
+        <item>3072 kb</item>
+        <item>4096 kb</item>
+        <item>5120 kb</item>
+        <item>6144 kb</item>
+    </string-array>
+
+    <string-array name="entries_sdcard_buffer">
+        <item>По-умолчанию</item>
+        <item>128</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>3072</item>
+        <item>4096</item>
+        <item>5120</item>
+        <item>6144</item>
+    </string-array>
+  
 </resources>
