@@ -2519,7 +2519,7 @@
     <string name="dual_pane_title">Двойная панель просмотра</string>
     <string name="dual_pane_summary">Приложения, поддерживающие этот параметр, будут показаны в две панели.</string>
     <!-- Fast Torch -->
-    <string name="enable_fast_torch_summary">Когда экран выключен, нажмите и держите кнопку питания для включения\выключения светодиода(-ов). Чтобы выключить фонарик, разблокируйте или выключите дисплей.</string>
+    <string name="enable_fast_torch_summary">Когда экран выключен, нажмите и удерживайте кнопку питания для включения\выключения светодиода(-ов). Чтобы выключить фонарик, разблокируйте или выключите дисплей.</string>
     <string name="enable_fast_torch_title">Включить быстрый фонарик</string>
     <!-- App Kill Timeout -->
     <string name="pref_kill_app_longpress_back_timeout_title">Таймаут закрытия приложения через кнопку "Назад"</string>
@@ -2545,7 +2545,7 @@
     <string name="pref_trackball_wake_toggle_title">Пробуждение трекболом</string>
     <string name="pref_trackball_wake_toggle_summary">При нажатии на трекбол устройство будет пробуждаться</string>
     <string name="pref_trackball_unlock_toggle_title">Разблокировка трекболом</string>
-    <string name="pref_trackball_unlock_toggle_summary">При нажатии на трекбол устройство будет разблокировываться</string>
+    <string name="pref_trackball_unlock_toggle_summary">При нажатии на трекбол устройство будет разблокировано</string>
     <!-- Recent Apps Kill All Button -->
     <string name="interface_recents">Экран последних запущенных приложений</string>
     <string name="recent_kill_all">Показ кнопки "Kill all"</string>
@@ -2617,7 +2617,7 @@
     <string name="pref_prox_delay_title">Задержка датчика приближения</string>
     <string name="pref_prox_delay_summary">Значение контролирует время, которое экран будет выключенным, когда во время разговора вы отдалили телефон от уха. (необходима перезагрузка)</string>
     <string name="pref_prox_delay_alt_summary">Текущее значение: %s</string>
-    <string name="pref_logcat_title">Отключить logcat</string>
+    <string name="pref_logcat_title">Отключить логирование</string>
     <string name="pref_logcat_summary">Отключение ведения записей в журнал (лог) - может увеличить производительность, но делает отладку невыносимо трудной.</string>
     <string name="pref_mod_version_title">Номер сборки</string>
     <string name="pref_mod_version_summary">Не улучшает систему - это просто эстетика</string>
@@ -2646,7 +2646,7 @@
     <string name="signal_style">Способ отображения уровня сигнала моб. сети</string>
     <string name="signal_color_title">Цвет индикатора сигнала моб. сети</string>
     <string name="hide_signal_title">Скрыть полоски индикаторов сигнала</string>
-    <string name="hide_signal_summary">Когда будет изменяться сила сигнала, они будут показываться на несколько секунд</string>
+    <string name="hide_signal_summary">Кратковременное отображение индикаторов, при изменении уровня сигнала</string>
     <string name="wifi_signal_style">Способ отображения уровня WiFi сигнала</string>
     <string name="wifi_signal_color_title">Цвет индикатора сигнала WiFi</string>
     <!-- Status Bar, SysBar, and NavBar Transparency -->
@@ -2752,7 +2752,7 @@
     <!-- Nav/SysBar and Status Bar Color Picker -->
     <string name="interface_color_appearance">Свой цвет для интерфейса системы</string>
     <string name="interface_def_color_summary">По-умолчанию: 0xFF000000</string>
-    <string name="interface_navbar_color_title">Цвет панели навигации / системной панели</string>
+    <string name="interface_navbar_color_title">Цвет панели навигации | системной панели</string>
     <string name="interface_statusbar_color_title">Цвет панели уведомлений</string>
     <!-- Rotation Lock Notification Toggle -->
     <string name="interface_rotationlock_toggle">Переключатель автоповорота</string>
