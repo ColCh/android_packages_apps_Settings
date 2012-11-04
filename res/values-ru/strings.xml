@@ -2560,7 +2560,7 @@
     <string name="arrow_down">.</string>
     <string name="hex">HEX:</string>
     <string name="hex_hint">#FF000000</string>
-    <string name="set">Уст.</string>
+    <string name="set">Ок</string>
     <string name="ics_color">Holo</string>
     <!-- Larger Clear-All Button (TabletUI) -->
     <string name="interface_systembar_fat_fingers_title">Увеличенная кнопка "Очистить все"</string>
