@@ -2486,7 +2486,7 @@
     <string name="app_security_title">Безопасность приложений</string>
     <string name="sms_security_check_limit_title">Предел SMS сообщений</string>
     <string name="sms_security_check_limit_summary">Запретить приложениям отправлять SMS слишком часто. Текущий лимит: %d сообщений за 15 минут.</string>
-    <string name="sms_security_check_limit_default">30 (По-умолчанию)</string>
+    <string name="sms_security_check_limit_default">30 (По умолчанию)</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
     
@@ -2571,19 +2571,19 @@
     <string name="lcd_density_wizard_summary">Мастер настройки поможет изменить плотность экрана.</string>
     <string name="follow_through_title">Следуйте по пунктам!</string>
     <string name="follow_through_summary">Удостоверьтесь, что вы выполняете пункты шаг за шагом и завершаете каждый, перед тем как приступить к следующему.</string>
-    <string name="stock_density_title">1. Измените плотность экрана на стандартную</string>
-    <string name="stock_density_summary">Планшеты и старые телефоны используют 160. Большинство телефонов - 240. Galaxy Nexus использует по-умолчанию 320.</string>
+    <string name="stock_density_title">1. Верните стандартный DPI</string>
+    <string name="stock_density_summary">Планшеты и старые телефоны используют 160. Большинство телефонов - 240. Galaxy Nexus использует по умолчанию 320.</string>
     <string name="reboot_title">2. Перезагрузите устройство!</string>
     <string name="reboot_summary">Вернитесь сюда после перезагрузки и завершите оставшиеся шаги!</string>
     <string name="clear_market_data_title">3. Очистить данные Google Play</string>
     <string name="clear_market_data_cleared">Данные Google Play удалены.</string>
     <string name="open_market_title">4. Запустите Google Play и примите соглашение</string>
     <string name="open_market_summary">После этого нажмите кнопку "Назад", чтобы вернуться сюда</string>
-    <string name="custom_density_title">5. Установите желаемую плотность!</string>
-    <string name="custom_density_summary">Если есть проблемы совместимости Google Play, обязательно вернитесь сюда и выполните все шаги заново.</string>
+    <string name="custom_density_title">5. Установите желаемый DPI!</string>
+    <string name="custom_density_summary">Если проблемы совместимости Google Play всё ещё остались, обязательно вернитесь сюда и выполните все шаги заново.</string>
     <!-- Network Label -->
     <string name="custom_carrier_label_title">Название оператора</string>
-    <string name="custom_carrier_label_explain">Изменение отображаемого имени оператора. Чтобы вернуть значение по-умолчанию, оставьте начение пустым.</string>
+    <string name="custom_carrier_label_explain">Изменение отображаемого имени оператора. Чтобы вернуть значение по умолчанию, оставьте начение пустым.</string>
     <string name="custom_carrier_label_notset">В настоящее время не установлено.</string>
     <!-- PropModder -->
     <string name="buildprop_title">Настройки build.prop</string>
@@ -2751,7 +2751,7 @@
     <string name="interface_navring_settings_summary">Редактирование ярлыков на кольце</string>
     <!-- Nav/SysBar and Status Bar Color Picker -->
     <string name="interface_color_appearance">Пользовательский цвет интерфейса системы</string>
-    <string name="interface_def_color_summary">По-умолчанию: 0xFF000000</string>
+    <string name="interface_def_color_summary">По умолчанию: 0xFF000000</string>
     <string name="interface_navbar_color_title">Цвет панели навигации &amp; системной панели</string>
     <string name="interface_statusbar_color_title">Цвет панели уведомлений</string>
     <!-- Rotation Lock Notification Toggle -->

@@ -145,7 +145,7 @@
     <item msgid="5702329417707689835">"Отличный"</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries">
-    <item msgid="3269131034472904310">"Всегда (увеличивает расход трафика)"</item>
+    <item msgid="3269131034472904310">"Всегда"</item>
     <item msgid="844721238536786870">"Только при питании от сети"</item>
     <item msgid="2990218920631468642">"Никогда"</item>
   </string-array>
@@ -398,14 +398,14 @@
 
   <!-- PropModder from Liquid -->
     <string-array name="entries_fast_up_explain">
-        <item>По-умолчанию</item>
+        <item>По умолчанию</item>
         <item>Выключить HSUPA (с ограничением)</item>
         <item>Включить HSUPA</item>
         <item>Включить HSUPA (без ограничения)</item>
     </string-array>
 
     <string-array name="entries_prox_delay_explain">
-        <item>По-умолчанию</item>
+        <item>По умолчанию</item>
         <item>0</item>
         <item>50</item>
         <item>75</item>
@@ -440,7 +440,7 @@
     </string-array>
 
     <string-array name="entries_sleep_explain">
-        <item>По-умолчанию</item>
+        <item>По умолчанию</item>
         <item>0 Приостановка питания ARM11</item>
         <item>1 Полное отключение ARM11 (лучшее)</item>
         <item>2 Программный сон</item>
@@ -449,7 +449,7 @@
     </string-array>
 
     <string-array name="entries_sdcard_buffer_explain">
-        <item>По-умолчанию</item>
+        <item>По умолчанию</item>
         <item>128 kb</item>
         <item>1024 kb</item>
         <item>2048 kb (Лучшее)</item>
@@ -460,7 +460,7 @@
     </string-array>
 
     <string-array name="entries_sdcard_buffer">
-        <item>По-умолчанию</item>
+        <item>По умолчанию</item>
         <item>128</item>
         <item>1024</item>
         <item>2048</item>
