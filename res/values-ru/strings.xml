@@ -52,7 +52,7 @@
     <string name="radioInfo_unknown" msgid="737385314432468266">"неизвестно"</string>
     <string name="radioInfo_display_packets" msgid="8654359809877290639">"pkts"</string>
     <string name="radioInfo_display_bytes" msgid="4018206969492931883">"байт"</string>
-    <string name="radioInfo_display_dbm" msgid="3621221793699882781">"dBm"</string>
+    <string name="radioInfo_display_dbm" msgid="3621221793699882781">"дБм"</string>
     <string name="radioInfo_display_asu" msgid="1422248392727818082">"asu"</string>
     <string name="radioInfo_lac" msgid="8415219164758307156">"LAC"</string>
     <string name="radioInfo_cid" msgid="4362599198392643138">"CID"</string>
@@ -2308,8 +2308,8 @@
 
     <!-- String for ShortcutPickHelper -->
     <string name="picker_activities">Действия</string>
-    <string name="select_custom_app_title">Выбрать собственное приложение</string>
-    <string name="select_custom_activity_title">Выбрать собственное действие</string>
+    <string name="select_custom_app_title">Выбрать приложение</string>
+    <string name="select_custom_activity_title">Выбрать действие</string>
     <string name="icon_picker_choose_icon_title">Выбрать иконку</string>
     <string name="icon_picker_browser">Браузер</string>
     <string name="icon_picker_movie">Видео</string>
@@ -2729,7 +2729,7 @@
     <!-- Navigation rings -->
     <string name="navbar_ring_cat">Ярлыки на кольце</string>
     <string name="interface_navring">Ярлыки на кольце</string>
-    <string name="interface_navring_custom_pref_summary">Уберите палец с экрана над ярлыком, для его запуска</string>
+    <string name="interface_navring_custom_pref_summary">Уберите палец с экрана над ярлыком для его запуска</string>
     <string name="interface_navring_pref_default_summary">Коснитесь для выбора действия ярлыка</string>
     <string name="interface_navring_assist_title">Google Now</string>
     <string name="interface_softkey_settings">Настройки функциональных клавиш</string>
@@ -2740,7 +2740,7 @@
     <string name="interface_softkeys_screenshot_title">Снимок экрана</string>
     <string name="interface_softkeys_screenoff_title">Выключить экран</string>
     <string name="interface_softkeys_ime_switcher_title">Выбор способа ввода</string>
-    <string name="interface_softkeys_ring_vib_title">Переключить звонок/вибро</string>
+    <string name="interface_softkeys_ring_vib_title">Переключать звонок/вибро</string>
     <string name="interface_softkeys_ring_silent_title">Переключать звонок/тихий режим</string>
     <string name="interface_softkeys_ring_vib_silent_title">Переключать звонок/вибро/тихий режим</string>
     <string name="interface_softkeys_kill_process_title">Закрыть приложение</string>

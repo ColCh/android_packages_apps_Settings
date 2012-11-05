@@ -376,7 +376,7 @@
     <item>Вкл.</item>
   </string-array>
   <string-array name="location_entries_gps_source">
-    <item>Исп. встроенный GPS</item>
+    <item>Встроенный GPS</item>
   </string-array>
 
   <!-- Wi-Fi settings. Presented as a list dialog to the user to choose the Wi-Fi region code. -->
@@ -395,7 +395,147 @@
   </string-array>
 
   <!-- **** CYANOGENMOD EDITS END **** -->
-  
+
+  <!-- CodefireX additions START -->  
+    <string-array name="entries_transparency">
+        <item>Без прозрачности</item>
+        <item>10%</item>
+        <item>25%</item>
+        <item>33%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>66%</item>
+        <item>75%</item>
+        <item>88%</item>
+        <item>100%</item>
+    </string-array>
+    
+    <string-array name="signal_style_entries">
+        <item>Графически - полоски</item>
+        <item>Число - опорный уровень</item>
+        <item>Число с припиской дБм</item>
+    </string-array>
+    
+    <string-array name="wifi_signal_style_entries">
+        <item>Графически - полоски</item>
+        <item>Число - опорный уровень</item>
+    </string-array>
+    
+    <string-array name="interface_rotationlock_toggle_entries">
+        <item>По умолчанию</item>
+        <item>Показывать</item>
+        <item>Скрывать</item>
+    </string-array>
+    
+    <string-array name="battery_bar_entries">
+        <item>Скрывать</item>
+        <item>Над панелью уведомлений</item>
+        <item>Верхняя часть панели навигации</item>
+        <item>Нижняя часть панели навигации</item>
+    </string-array>
+    
+    <string-array name="battery_bar_style_entries">
+        <item>Обычный</item>
+        <item>Симметричный центру</item>
+    </string-array>
+    
+    <string-array name="lcd_density_entries">
+        <item>100</item>
+        <item>120</item>
+        <item>160</item>
+        <item>180</item>
+        <item>200</item>
+        <item>220</item>
+        <item>240</item>
+        <item>280</item>
+        <item>Пользовательский вариант</item>
+    </string-array>
+
+    <string-array name="lcd_density_stock_entries">
+        <item>160 -- MDPI</item>
+        <item>240 -- HDPI</item>
+        <item>320 -- XHDPI</item>
+    </string-array>
+    
+    <string-array name="pref_navigation_menu_entries">
+        <item>Справа</item>
+        <item>Слева</item>
+        <item>Слева &amp; справа</item>
+        <item>Убрать</item>
+    </string-array>
+    
+    <string-array name="pref_navigation_menu_display_entries">
+        <item>По умолчанию</item>
+        <item>Всегда (с невидимым значком)</item>
+        <item>Всегда</item>
+        <item>По умолчанию (с невидимым значком, когда скрыто)</item>
+    </string-array>
+    
+    <string-array name="navbar_button_entries">
+        <item>Домой</item>
+        <item>Назад</item>
+        <item>Последние запущенные</item>
+        <item>Поиск</item>
+        <item>Снимок экрана</item>
+        <item>Меню</item>
+        <item>Показать/скрыть виджеты</item>
+        <item>Выбор способа ввода</item>
+        <item>Закрыть открытое приложение</item>
+        <item>Выкл. экран</item>
+        <item>Уведомления</item>
+        <item>Выбрать приложение ...</item>
+        <item>Пусто</item>
+    </string-array>
+    
+    <string-array name="navigation_bar_width_entries">
+        <item>42 dp (по умолчанию)</item>
+        <item>38 dp</item>
+        <item>36 dp</item>
+        <item>30 dp</item>
+        <item>24 dp</item>
+    </string-array>
+    
+    <string-array name="navigation_bar_height_entries">
+        <item>48 dp (по умолчанию)</item>
+        <item>44 dp</item>
+        <item>40 dp</item>
+        <item>38 dp</item>
+        <item>36 dp</item>
+        <item>30 dp</item>
+        <item>24 dp</item>
+    </string-array>
+    
+    <string-array name="navigation_bar_height_landscape_entries">
+        <item>48 dp (по умолчанию)</item>
+        <item>42 dp</item>
+        <item>38 dp</item>
+        <item>36 dp</item>
+        <item>30 dp</item>
+        <item>24 dp</item>
+    </string-array>
+    
+    <string-array name="navring_dialog_entries">
+        <item>Ничего</item>
+        <item>Снимок экрана</item>
+        <item>Выбор способа ввода</item>
+        <item>Переключать звонок/вибро</item>
+        <item>Переключать звонок/тихий режим</item>
+        <item>Переключать звонок/вибро/тихий режим</item>
+        <item>Закрыть приложение</item>
+        <item>Выключить экран</item>
+        <item>Google Now</item>
+        <item>Выбрать приложение ...</item>
+    </string-array>
+    
+    <string-array name="pref_navring_amount_entries">
+        <item>1 ярлык</item>
+        <item>2 ярлыка</item>
+        <item>3 ярлыка</item>
+        <item>4 ярлыка</item>
+        <item>5 ярлыков</item>
+    </string-array>
+
+
 
   <!-- PropModder from Liquid -->
     <string-array name="entries_fast_up_explain">
@@ -470,5 +610,6 @@
         <item>5120</item>
         <item>6144</item>
     </string-array>
+    <!-- CodefireX additions END -->
   
 </resources>
