@@ -59,7 +59,7 @@
     <string name="sdcard_unmount" product="nosdcard" msgid="6325292633327972272">"Отключить USB-накопитель"</string>
     <string name="sdcard_unmount" product="default" msgid="3364184561355611897">"Извлечь SD-карту"</string>
     <string name="sdcard_format" product="nosdcard" msgid="6285310523155166716">"Очистить USB-накопитель"</string>
-    <string name="sdcard_format" product="default" msgid="6713185532039187532">"Очистить SD-карту"</string>
+    <string name="sdcard_format" product="default" msgid="6713185532039187532">"Отформатировать SD-карту"</string>
     <string name="small_font" msgid="2295331917424072635">"Маленький"</string>
     <string name="medium_font" msgid="2068475425515133701">"Среднее"</string>
     <string name="large_font" msgid="599055175160971446">"Большой"</string>
@@ -1926,10 +1926,10 @@
     <string name="power_widget_behavior">Поведение виджета</string>
     <string name="title_expanded_hide_onchange">Скрывать при изменении</string>
     <string name="title_expanded_hide_scrollbar">Скрывать полосу прокрутки</string>
-    <string name="title_widget_picker">Кнопки виджета</string>
-    <string name="summary_widget_picker">Выберите кнопки, которые будут отображаться на этом виджете</string>
-    <string name="title_widget_order">Упорядочить кнопки виджета</string>
-    <string name="summary_widget_order">Упорядочить кнопки на виджете</string>
+    <string name="title_widget_picker">Быстрые настройки</string>
+    <string name="summary_widget_picker">Выберите кнопки, которые будут отображаться в панели уведомлений</string>
+    <string name="title_widget_order">Упорядочить быстрые настройки</string>
+    <string name="summary_widget_order">Упорядочить кнопки быстрых настроек в панели уведомлений</string>
     <string name="title_buttons">Кнопки</string>
     <string name="title_toggle_wifi">Wi-Fi</string>
     <string name="title_toggle_bluetooth">Bluetooth</string>
@@ -2759,6 +2759,6 @@
     <string name="interface_rotationlock_toggle">Переключатель автоповорота</string>
     <!-- Volume Keys Switch on Rotation -->
     <string name="system_volume_keys_rotate">Инверсия кнопок громкости</string>
-    <string name="system_volume_keys_rotate_summary">Значения кнопок поменяются местами, если устройство повёрнуто на 90 или 180 градусов против часовой стрелки.</string>
+    <string name="system_volume_keys_rotate_summary">Значения кнопок поменяются местами, если устройство повёрнуто на 90 или 180 градусов против часовой стрелки</string>
     <!-- **** CODEFIRE ADDITIONS END **** -->
 </resources>
