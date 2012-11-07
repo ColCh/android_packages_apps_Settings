@@ -2255,7 +2255,7 @@
 
     <!-- Performance Settings : Disable bootanimation -->
     <string name="pref_disable_bootanimation_title">Отключить boot анимацию</string>
-    <string name="pref_disable_bootanimation_summary">Не показывать анимаю загрузки для более быстрой загрузки</string>
+    <string name="pref_disable_bootanimation_summary">Не показывать анимаю загрузки</string>
 
     <!-- Performance Settings : I/O scheduler settings title -->
     <string name="io_scheds_title">Планировщик I/O</string>
@@ -2510,7 +2510,7 @@
     <string name="codefire_notification">Область уведомлений</string>
     <string name="codefire_misc">Разное</string>
     <string name="codefire_propmodder">PropModder</string>
-    <string name="codefire_propmodder_summary">Различные настройки build.prop. Интервал сканирования Wi-Fi, режим HSUPA и прочее</string>
+    <string name="codefire_propmodder_summary">Твики init.d &amp; build.prop. Интервал сканирования Wi-Fi, режим HSUPA и прочее</string>
     <string name="codefire_statusbar">Строка состояния</string>
     <string name="codefire_statusbar_summary">Индикатор заряда, позиция часов, стиль иконки сигнала, и прочее</string>
     <string name="codefire_signal">Стиль сигнала</string>
@@ -2587,7 +2587,7 @@
     <!-- LCD Density -->
     <string name="dpi">DPI</string>
     <string name="lcd_density_wizard">Настройка плотности экрана</string>
-    <string name="lcd_density_wizard_summary">Мастер настройки поможет изменить плотность экрана.</string>
+    <string name="lcd_density_wizard_summary">Мастер bпоможет изменить плотность экрана.</string>
     <string name="follow_through_title">Следуйте по пунктам!</string>
     <string name="follow_through_summary">Удостоверьтесь, что вы выполняете пункты шаг за шагом и завершаете каждый, перед тем как приступить к следующему.</string>
     <string name="stock_density_title">1. Верните стандартный DPI</string>
@@ -2642,7 +2642,7 @@
     <string name="pref_mod_version_summary">Не улучшает систему - это просто эстетика</string>
     <string name="pref_mod_version_alt_summary">Номер сборки: %s</string>
     <string name="pref_mod_version_default">PropModder!!!</string>
-    <string name="pref_sleep_title">Режимы сна</string>
+    <string name="pref_sleep_title">Режим сна</string>
     <string name="pref_sleep_summary">Изменить политику сна устройства</string>
     <string name="pref_sleep_alt_summary">Текущее значение: %s</string>
     <string name="pref_tcp_stack_title">Оптимизация стека TCP</string>
