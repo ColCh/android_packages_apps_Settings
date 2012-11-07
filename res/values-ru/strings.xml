@@ -2529,6 +2529,7 @@
     <string name="enable_fast_torch_summary">Когда экран выключен, нажмите и удерживайте кнопку питания для включения\выключения светодиода(-ов). Чтобы выключить фонарик, разблокируйте или выключите дисплей.</string>
     <string name="enable_fast_torch_title">Включить быстрый фонарик</string>
 	<!-- Clock and Date Shade Actions -->
+	<string name="custom_app">@string/use_custom_app_title</string>
 	<string name="nothing">@string/no_application</string>
 	<string name="alarm">@string/alarm_volume_title</string>
 	<string name="today">События на сегодня</string>
