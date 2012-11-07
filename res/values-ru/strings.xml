@@ -2584,7 +2584,7 @@
     <string name="pref_statusbar_sixbar_signal_summary">Показывать 6 полосок уровня сигнала WiFi/моб. сети вместо стандартных 4.</string>
     <!-- Custom Boot Animation -->
     <string name="custom_bootanimation_title">Пользовательская анимация загрузки</string>
-    <string name="custom_bootanimation_summary">Выбрать ZIP архив с анимацией загрузки с карты памяти, при этом будет сделана резервная копия текущей . (Чекбокс "Отключить анимацию загрузки" должен быть снят).</string>
+    <string name="custom_bootanimation_summary">Выбрать ZIP архив с анимацией загрузки с карты памяти, при этом будет сделана резервная копия текущей . (Чекбокс \"Отключить анимацию загрузки\" должен быть снят).</string>
     <string name="install_file_manager_error">Не найдено приложений для выбора файла. Пожалуйста, установите диспетчер файлов.</string>
     <!-- ScreenShot Scaling -->
     <string name="screenshot_scaling_title">Коэффициент масштабирования снимка экрана</string>
@@ -2620,7 +2620,7 @@
     <!-- LCD Density -->
     <string name="dpi">DPI</string>
     <string name="lcd_density_wizard">Настройка плотности экрана</string>
-    <string name="lcd_density_wizard_summary">Мастер bпоможет изменить плотность экрана.</string>
+    <string name="lcd_density_wizard_summary">Мастер настройки поможет изменить плотность экрана.</string>
     <string name="follow_through_title">Следуйте по пунктам!</string>
     <string name="follow_through_summary">Удостоверьтесь, что вы выполняете пункты шаг за шагом и завершаете каждый, перед тем как приступить к следующему.</string>
     <string name="stock_density_title">1. Верните стандартный DPI</string>
