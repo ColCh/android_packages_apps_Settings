@@ -2087,7 +2087,7 @@
     <string name="lockscreen_buttons_summary">Действия аппаратных кнопок на экране блокировки</string>
     <string name="lockscreen_long_key_press_title">При долгом нажатии</string>
     <string name="lockscreen_long_press_home_title">На кнопку \"Домой\"</string>
-    <string name="lockscreen_long_press_menu_title">На кнопку "\Меню\"</string>
+    <string name="lockscreen_long_press_menu_title">На кнопку \"Меню\"</string>
     <string name="lockscreen_long_press_search_title">На кнопку \"Поиск\"</string>
     <string name="lockscreen_buttons_no_action">Пусто</string>
     <string name="lockscreen_buttons_flashlight">Фонарик</string>
