@@ -1971,7 +1971,10 @@
     <string name="status_bar_title">Строка состояния</string>
     <string name="status_bar_clock_title">Часы</string>
     <string name="status_bar_general_title">Основные</string>
-    <string name="status_bar_show_clock_title">Показывать часы</string>
+    <string name="status_bar_clock_style_title">Отображение часов</string>
+    <string name="clock_style_noclock">Скрыть часы</string>
+    <string name="clock_style_right">@string/lockscreen_clock_align_right</string>
+    <string name="clock_style_center">@string/lockscreen_clock_align_center</string>
     <string name="status_bar_am_pm_title">Стиль AM/PM</string>
     <string name="status_bar_am_pm_info">Включен 24-часовой формат</string>
     <string name="status_bar_battery_title">Стиль батареи</string>
