@@ -2249,6 +2249,9 @@
     <string name="cpu_set_on_boot">Выставлять при загрузке</string>
     <string name="cpu_set_on_boot_summary">Применить текущие настройки ЦП при загрузке</string>
 
+    <!-- Performance Settings : Disable bootanimation -->
+    <string name="pref_disable_bootanimation_title">Отключить boot анимацию</string>
+    <string name="pref_disable_bootanimation_summary">Не показывать анимаю загрузки для более быстрой загрузки</string>
 
     <!-- Performance Settings : I/O scheduler settings title -->
     <string name="io_scheds_title">Планировщик I/O</string>
