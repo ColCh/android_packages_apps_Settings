@@ -2528,6 +2528,16 @@
     <!-- Fast Torch -->
     <string name="enable_fast_torch_summary">Когда экран выключен, нажмите и удерживайте кнопку питания для включения\выключения светодиода(-ов). Чтобы выключить фонарик, разблокируйте или выключите дисплей.</string>
     <string name="enable_fast_torch_title">Включить быстрый фонарик</string>
+	<!-- Clock and Date Shade Actions -->
+	<string name="nothing">@string/no_application</string>
+	<string name="alarm">@string/alarm_volume_title</string>
+	<string name="today">События на сегодня</string>
+	<string name="event">Добавить событие</string>
+	<string name="voiceassist">Голосовой набор</string>
+	<string name="title_date_longclick">Действие при долгом касании по дате</string>
+	<string name="title_date_shortclick">Действие при коротком касании по дате</string>
+	<string name="title_clock_longclick">Действие при долгом касании по часам</string>
+	<string name="title_clock_shortclick">Действие при коротком касании по часам</string>
     <!-- App Kill Timeout -->
     <string name="pref_kill_app_longpress_back_timeout_title">Таймаут закрытия через кнопку "Назад"</string>
     <string name="pref_kill_app_longpress_back_timeout_dialogtitle">Длительность в миллисекундах (500-2000)</string>
