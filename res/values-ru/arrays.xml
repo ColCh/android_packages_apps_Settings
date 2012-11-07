@@ -581,10 +581,10 @@
     </string-array>
 
     <string-array name="entries_sleep_explain">
-        <item>Отключен</item>
+        <item>Значение по умолчанию</item>
         <item>Приостановка питания</item>
         <item>Полное отключение (лучшее)</item>
-        <item>Программный сон</item>
+        <item>Приостановка программ</item>
         <item>Понижение частот</item>
         <item>Ждать прерывания</item>
     </string-array>
