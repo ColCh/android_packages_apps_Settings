@@ -569,8 +569,8 @@
     </string-array>
 
     <string-array name="entries_logcat_explain">
-        <item>Убрать навсегда</item>
-        <item>Выключить до перезагрузки</item>
+        <item>Удалить лог</item>
+        <item>Удалить до перезагрузки</item>
         <item>Включить</item>
     </string-array>
 
@@ -581,11 +581,11 @@
     </string-array>
 
     <string-array name="entries_sleep_explain">
-        <item>По умолчанию</item>
-        <item>Приостановка питания ARM11</item>
-        <item>Полное отключение ARM11 (лучшее)</item>
-        <item>Программный сон</item>
-        <item>Понижать характеристики</item>
+        <item>Значение по умолчанию</item>
+        <item>Приостановка питания</item>
+        <item>Полное отключение (лучшее)</item>
+        <item>Приостановка программ</item>
+        <item>Понижение частот</item>
         <item>Ждать прерывания</item>
     </string-array>
 
